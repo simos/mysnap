@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Snap-related temporary files.
+/*.snap
+parts/
+prime/
+stage/
